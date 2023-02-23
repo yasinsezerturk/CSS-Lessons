@@ -1,0 +1,15 @@
+/* p {
+    background-color: green;
+    opacity: 0.3;
+} */
+
+/* body {color: orange;
+background-image: url("./metaworld.jpeg");
+background-repeat: no-repeat;
+background-position: left top;
+background-size: cover;
+} */
+
+body{
+    background: orange url("./metaworld.jpeg") no-repeat left top ;
+} 

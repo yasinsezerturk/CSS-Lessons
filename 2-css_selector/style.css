@@ -1,0 +1,36 @@
+/* element selector */
+
+/* p{
+    color: red;
+    text-align: center;
+} */
+
+/* id selector */
+
+/* #id1{
+    color: red;
+    text-align: center;
+} */
+
+/* class selector */
+/* .center{
+    color: blue;
+    text-align: center;
+}
+
+.large{
+    background-color: yellow;
+} */
+
+/* universal selector */
+/* *{
+    text-align: center;
+    color: red;
+} */
+/* group selector */
+
+/* h1,h2, p{
+    text-align: center;
+    color: red;
+} */
+

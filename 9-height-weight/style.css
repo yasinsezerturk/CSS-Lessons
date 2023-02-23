@@ -1,0 +1,10 @@
+div{
+    height: 200px;
+    width: 700px;
+    background-color: blue;
+    color: white;
+    max-width: 100px;
+
+}
+
+/* max-width genişliği 100px le sınırlandırmıştır */

@@ -1,0 +1,37 @@
+/* p{
+    border-style: dotted;
+    width: 300px;
+}
+
+h1{
+    border-style: groove;
+} */
+
+/* p{
+    border-style: solid;
+    border-width: 5px 20px 10px 15px;
+    border-color: red;
+} */
+
+/* p{
+    border-top-style: dotted;
+    border-bottom-style: solid;
+    border-right-style: dotted;
+    border-left-width: solid;
+} */
+
+/* h1 {
+    border-top-style: dotted;
+    border-width: 5px 20px 10px 15px;
+    border-color: red green yellow black;
+} */
+
+/* p{
+    border: 5px solid red;
+} */
+
+p{
+border-width: 5px ;
+border-style: solid;
+border-color: red;
+}

@@ -1,0 +1,14 @@
+ul.a{
+list-style: circle;
+}
+ul.b{
+    list-style-type: square;
+    list-style-position:inside;
+}
+
+ol.c{
+    list-style-type: upper-roman;
+}
+ol.d{
+    list-style-image: url("./buyutec.png");
+}
