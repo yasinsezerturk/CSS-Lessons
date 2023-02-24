@@ -1,0 +1,16 @@
+/* div {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  overflow-x: auto;
+  overflow-y: scroll;
+  overflow: auto;
+} */
+
+div {
+  width: 200px;
+  overflow: hidden;
+  border: 1px solid black;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
